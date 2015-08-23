@@ -1,8 +1,10 @@
 
-Flux React Router Example
+Wemix
 =========================
 
-This is a sample Flux app I wrote on a weekend.  
+Based on [flux-react-router-example](https://github.com/gaearon/flux-react-router-example)
+
+<!-- This is a sample Flux app I wrote on a weekend.  
 It uses open Github API to display starred repos by users and stargazers by repo.
 
 ![](http://i.imgur.com/MxPpyPb.png)
@@ -81,4 +83,4 @@ In most social apps, you'll have lots of these and you want to be able to quickl
 }
 ```
 
-See and run the source for more tips!
+See and run the source for more tips! -->
